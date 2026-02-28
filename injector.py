@@ -457,7 +457,7 @@ def run():
     b'wrap',
     b'proxy',
     b'middleware',
-    b'domino',
+    b'nuitka',
     b'pyinstaller',
     b'__main__',
     b'compiled',
